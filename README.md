@@ -1,4 +1,4 @@
-# SiT: Scale-interaction Transformer for Hyperspectral Image Classification
+# SiT
 ----------
 ## Zhonghao Chen, Swalpa Kumar Roy, Hongmin Gao, Bing Zhang, Jocelyn Chanussot
 ----------
